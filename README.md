@@ -39,9 +39,4 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/the_rustambek)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/rustamjon/)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rustambek-Mamadaliyev0301&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
-
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rustambek-Mamadaliyev0301&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
+ 
