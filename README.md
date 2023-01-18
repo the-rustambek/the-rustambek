@@ -12,12 +12,11 @@
 - 🔋  I’m <b>Frontend</b> developer .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: rustambek0301@gmail.com<br>
-- 😄 My website: https://rustambekuz.netlify.app/<br>
 <br>
 <br>
 <hr>
 <br>
-### Languages and Tools
+## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
 ![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
